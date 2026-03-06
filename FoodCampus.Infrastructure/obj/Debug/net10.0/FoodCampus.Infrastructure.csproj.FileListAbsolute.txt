@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.AssemblyInfo.cs
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Infrastructure.deps.json
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Infrastructure.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Infrastructure.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Application.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Application.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\bin\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCamp.D6F8637D.Up2Date
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\refint\FoodCampus.Infrastructure.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\FoodCampus.Infrastructure.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Infrastructure\obj\Debug\net10.0\ref\FoodCampus.Infrastructure.dll
