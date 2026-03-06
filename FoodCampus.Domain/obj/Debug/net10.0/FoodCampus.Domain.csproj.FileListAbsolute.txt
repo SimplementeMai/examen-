@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.AssemblyInfo.cs
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\bin\Debug\net10.0\FoodCampus.Domain.deps.json
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\bin\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\bin\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\refint\FoodCampus.Domain.dll
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.Domain\obj\Debug\net10.0\ref\FoodCampus.Domain.dll
