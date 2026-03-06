@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.API\obj\Debug\net10.0\FoodCampus.API.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.API\obj\Debug\net10.0\FoodCampus.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.API\obj\Debug\net10.0\FoodCampus.API.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.API\obj\Debug\net10.0\FoodCampus.API.AssemblyInfo.cs
+C:\Users\usuario\Documents\WorkSpace\exan\exam\src\FoodCampus.API\obj\Debug\net10.0\FoodCampus.API.csproj.CoreCompileInputs.cache
